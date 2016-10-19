@@ -17,6 +17,10 @@
 链接：http://pan.baidu.com/s/1i3s5DFR 密码：ife8 
 apk工程目录里面也有，搜索一下.apk就能找到
 
+需要注意的小事项
+===
+文件太大，久了没玩了也不知道那个是工程文件，压缩了2个zip，解压后可还原。
+
 部分截图
 ===
 ![](https://github.com/ShanaMaid/cocos2d-x-DayDayFlyBar/raw/master/Img/1.jpg)
